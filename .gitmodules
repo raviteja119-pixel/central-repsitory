@@ -1,0 +1,9 @@
+[submodule "cgitlearnravi"]
+	path = cgitlearnravi
+	url = https://github.com/raviteja119-pixel/ravi.git
+[submodule "personal"]
+	path = personal
+	url = https://github.com/raviteja119-pixel/personal.git
+[submodule "ravi"]
+	path = ravi
+	url = https://github.com/raviteja119-pixel/ravi.git
